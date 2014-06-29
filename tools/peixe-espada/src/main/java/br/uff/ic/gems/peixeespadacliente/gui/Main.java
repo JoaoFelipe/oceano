@@ -19,6 +19,6 @@ public class Main {
         }
         jDesktop = new JDesktopAgent();
         jDesktop.setVisible(true);
-        CompilerService.COMPILE_WITH_COMMAND_LINE = false;
+//        CompilerService.COMPILE_WITH_COMMAND_LINE = false;
     }
 }
